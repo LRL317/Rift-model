@@ -1,3 +1,3 @@
 # Rift-model
-This Rift software is an early version from the Rift2Ridge project in Bremen. This software was developed at the MARUM Center for Marine Environmental Sciences, University of Bremen.
+This Rift software is an early version from the Rift2Ridge project . This software was developed at the MARUM Center for Marine Environmental Sciences, University of Bremen.
 It solves the momentum, mass and energy conservation equations in a Lagrangian framework. The code originally branched from MILAMIN finite element solvers (Dabrowski et al., G-cubed, 2008). The code has been used to addressed tectonic, sedimentary, and surface processes during rifting (e.g. Pérez-Gussinyé et al., 2020, Andrés-Martínez et al., 2019, Ros et al., 2017, Andrés-Martínez et al., 2015). 
